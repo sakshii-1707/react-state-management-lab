@@ -30,6 +30,7 @@ To implement global state management in a Single Page Application using the Reac
 
 pictures to understand:
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/4a4b5285-610a-465c-8e82-357ebe9a3587" />
+<img width="1885" height="917" alt="image" src="https://github.com/user-attachments/assets/9b4afdd5-2f5c-4883-9092-1e06ce973624" />
 
 
 ## 📌 Experiment 2: State Management using Redux Toolkit (Counter Application)
@@ -64,8 +65,9 @@ To implement centralized state management using Redux in a React application.
 `redux-counter-app`\
 
 pictures to understand:
+<img width="1915" height="915" alt="image" src="https://github.com/user-attachments/assets/27bb74d4-da85-481a-b4a7-e7c8ecc0bedf" />
+
 <img width="1762" height="724" alt="image" src="https://github.com/user-attachments/assets/5d393724-11de-4d7a-a5e3-596cafb26b4c" />
-<img width="1803" height="809" alt="image" src="https://github.com/user-attachments/assets/0bcd162d-e9f2-4538-ad4d-708ae91940ca" />
 
 
 
@@ -94,5 +96,6 @@ or
 cd redux-counter-app
 3️⃣ Install dependencies
 npm install
+
 4️⃣ Start development server
 npm run dev
